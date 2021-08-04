@@ -1,4 +1,4 @@
-package me.gui;
+package me.gui; //Main Class
 
 import org.bukkit.plugin.java.JavaPlugin;
 
