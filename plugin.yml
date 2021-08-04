@@ -1,0 +1,8 @@
+name: Gui
+version: ${project.version}
+main: me.gui.Gui
+api-version: 1.15
+commands:
+  lobby:
+    usage: /<command>
+    description: Teleports to lobby
